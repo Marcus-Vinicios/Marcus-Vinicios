@@ -1,7 +1,7 @@
 ## Hi! I'm Marcus Vinicios
 
 #I'm a Web Developer curently I'm studing Analysis and Sistem Development.
-#I like to learn new things and learn new tecnologies, looking for a job as a Developer or Internship.
+<br>I like to learn new things and learn new tecnologies, looking for a job as a Developer or Internship.
 
 <p align="center">
   <a href="https://skillicons.dev">
