@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
+  <h3>Languages || Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,figma,vscode,ps" />
   </a>
 </
