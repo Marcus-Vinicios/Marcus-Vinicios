@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hi! I'm Marcus Vinicios
+  <h2>Hi! I'm Marcus Vinicios</h2>
 
   <p>
     I'm a Web Developer curently I'm studing Analysis and Sistem Development.
