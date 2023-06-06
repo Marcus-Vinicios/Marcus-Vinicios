@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h2>Hi! I'm Marcus Vinicios</h2>
   <p>
     I'm a Web Developer, currently I'm studying Analysis and System Development.<br>
