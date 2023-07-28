@@ -6,8 +6,9 @@
     I'm looking for a oportunite of job or intership as a Developer.
   </p>
 </div>
+
+## &nbsp;Tech Stack | Tools
 <div align="center">
-    <h3>Languages || Tools</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,php,react,nodejs,express,sass,mysql,figma,vscode,ps,bootstrap" />
     </a>
@@ -24,4 +25,14 @@
     <img height="175vh" src="https://github-readme-stats.vercel.app/api?username=Marcus-Vnicios&show_icons=true" />
   </picture>
     <img height="175vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicios&layout=compact&theme=dark"/>
+</div>
+
+## &nbsp;Contact 
+<div align="left">
+  <a href="https://linkedin.com/in/marcus-vinicios-oliveira" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:marcusv.fl.oliveira@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
