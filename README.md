@@ -2,8 +2,7 @@
   <h2>Hi! I'm Marcus Vinicios, welcome to my GitHub profile!</h2>
   <p>
     I'm a Developer, currently I'm studying Analysis and System Development at Fatec Itu.<br>
-    I enjoy learning new programming languages ​​and technologies to increase my knowledge and skills.<br>
-    I'm looking for a oportunite of job or intership as a Developer.
+    I enjoy learning new programming languages ​​and technologies to increase my knowledge and skills.
   </p>
 </div>
 
