@@ -1,15 +1,25 @@
 <div>
   <h2>Hi! I'm Marcus Vinicios, welcome to my GitHub profile!</h2>
   <p>
-    I'm a Developer, currently I'm studying Analysis and System Development at Fatec Itu.<br>
+    I'm a Frontend Developer, studying to become a FullStack, currently I'm studying Analysis and System Development at Fatec Itu.<br>
     I enjoy learning new programming languages ​​and technologies to increase my knowledge and skills.
+  </p>
+  <p>
+    <b>Stepping out of my comfort zone.</b>
   </p>
 </div>
 
+## &nbsp;Studying
+<div>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,nextjs,php,laravel,java,spring" />
+    </a>
+</div>
+
 ## &nbsp;Tech Stack | Tools
-<div align="center">
+<div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,php,react,nodejs,express,sass,mysql,figma,vscode,ps,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,sass,mongodb,mysql,figma,vscode,ps,bootstrap" />
     </a>
 </div>
 <br/>
