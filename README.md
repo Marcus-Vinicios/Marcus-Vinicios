@@ -9,17 +9,24 @@
   </p>
 </div>
 
+## &nbsp;Interests
+<div>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django" />
+    </a>
+</div>
+
 ## &nbsp;Studying
 <div>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,nextjs,php,laravel,java,spring" />
+      <img src="https://skillicons.dev/icons?i=angular,php,laravel,java,spring" />
     </a>
 </div>
 
 ## &nbsp;Tech Stack | Tools
-<div>
+<div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,sass,mongodb,mysql,figma,vscode,ps,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,sass,tailwind,git,mongodb,mysql" />
     </a>
 </div>
 <br/>
