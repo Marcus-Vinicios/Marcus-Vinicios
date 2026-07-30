@@ -12,21 +12,21 @@
 ## &nbsp;Interests
 <div>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django" />
+      <img src="https://skillicons.dev/icons?i=py,django" />
     </a>
 </div>
 
 ## &nbsp;Studying
 <div>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,php,laravel,java,spring" />
+      <img src="https://skillicons.dev/icons?i=angular,java,spring" />
     </a>
 </div>
 
 ## &nbsp;Tech Stack | Tools
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,sass,tailwind,git,mongodb,mysql" />
+      <img src="https://skillicons.dev/icons?i=js,ts,java,py,php,html,css,react,nextjs,angular,nodejs,express,laravel,sass,tailwind,git,mongodb,mysql" />
     </a>
 </div>
 <br/>
